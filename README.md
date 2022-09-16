@@ -42,4 +42,5 @@ Como resultado obtuvimos un valor de predicción de 0.8733, lo que nos indica qu
 
 ## Módulo 2 Análisis y Reporte sobre el desempeño del modelo.
 > Archivo: _Modulo2_AnálisisYReporte.pdf_
+
 Todo el análisis se encuentra dentro del documento pdf.
