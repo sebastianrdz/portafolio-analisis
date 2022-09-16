@@ -1,8 +1,7 @@
 # portafolio-analisis
 
-Módulo 1 Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos. Archivo: _Modulo1_Salarios.ipybn_
-
-## Conclusión
+## Módulo 1 Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos. 
+  > Archivo: _Modulo1_Salarios.ipybn_
 ### Preguntas
 * ¿Cuál es el salario al que puede aspirar un analista de datos?
   > Un analista de datos puede aspirar a un salario promedio de 112297.8 USD.
@@ -41,4 +40,6 @@ Como resultado obtuvimos un valor de predicción de 0.8733, lo que nos indica qu
 
 
 
-Modulo 2: A00827463_SebastianRdz_Modulo2_AnálisisYReporte
+## Módulo 2 Análisis y Reporte sobre el desempeño del modelo.
+> Archivo: _Modulo2_AnálisisYReporte.pdf_
+Todo el análisis se encuentra dentro del documento pdf.
